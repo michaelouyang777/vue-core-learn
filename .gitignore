@@ -25,3 +25,4 @@ pnpm-debug.log*
 !/node_modules/vue
 !/node_modules/vue-router
 !/node_modules/vuex
+!/node_modules/vue-template-compiler
